@@ -268,7 +268,7 @@ Welcome to my GitHub profile! I'm a flutter developer who finds himself designin
 
   <a href="https://programgrabltd.com/" target="_blank" >
     <img
-      src="https://github.com/ChKarishan/ChKarishan/blob/main/tg_logo.jpeg"
+      src="https://github.com/hamza9009/hamza9009/blob/main/WhatsApp%20Image%202024-11-12%20at%2001.07.09.jpeg"
       alt="Technogenics SMC PVT LTD"
       height="80"
     />
